@@ -38,7 +38,7 @@
         <azure.version>2.6.4</azure.version>
         <!-- Other versions -->
         <ojdbc8.version>12.2.0.1</ojdbc8.version>
-        <wiremock.version>2.32.0</wiremock.version>
+        <wiremock.version>2.35.1</wiremock.version>
         <mockk.version>1.12.1</mockk.version>
         <pact.version>4.0.10</pact.version>
         <sonar-jacoco-listeners.version>5.14.0.18788</sonar-jacoco-listeners.version>
